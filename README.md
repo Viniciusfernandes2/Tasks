@@ -13,6 +13,8 @@ Tasks sprint1 :
 | LD 002 |  Vinicius Barbosa| 18/09    |
 | PD 003 |  Rodrigo de Andrade | 18/09 |
 
+</div>
+
 <h2>
   Atividades Feitas:
 </h2>
