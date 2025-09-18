@@ -11,7 +11,7 @@ Tasks sprint1 :
 |--------|------------------|----------|
 | EU 001 |  Luana Pinheiro  | 18/09    |
 | LD 002 |  Vinicius Barbosa| 18/09    |
-|        |                  |          |
+|  ux 003      |        vini          | 22/09         |
 
 <h2>
   Atividades Feitas:
